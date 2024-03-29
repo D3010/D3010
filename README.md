@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Amish Shah</h1>
-<h3 align="center">A passionate Computer Vision Engineer from USA</h3>
+<h3 align="center">A passionate Data Analysis Engineer from USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3010&label=Profile%20views&color=0e75b6&style=flat" alt="d3010" /> </p>
 
