@@ -87,56 +87,10 @@
 <p align="left">
   I'm always open to discussing new projects, collaborations, or opportunities in AI and Computer Vision. Feel free to connect!
   <br><br>
-  📧 **Email:** YOUR_EMAIL@example.com (Optional: Or just rely on LinkedIn) <br>
+  📧 **Email:** dshah30.us@gmail.com <br>
   🔗 **LinkedIn:** [linkedin.com/in/deep-shah30](https://www.linkedin.com/in/deep-shah30/) <br>
-  <!-- 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com) (Highly recommended) -->
+  <!-- 🌐 **Portfolio:** [your-portfolio-link.com](https://deepsai.tech/)>
 </p>
 
 ---
 
-
-Key Improvements and Rationale:
-
-Professional Headline: Changed the sub-headline to be more descriptive and impactful (A Passionate AI Engineer Driving Innovation in Computer Vision).
-
-Enhanced Badges:
-
-Used flat-square style for the profile view counter for a slightly cleaner look.
-
-Replaced the raw SVG link for LinkedIn with a professional-looking shields.io badge. Added comments showing how to add more (Portfolio, Twitter). Crucially, I fixed your LinkedIn URL.
-
-Engaging Introduction: Added a short paragraph elaborating on your passion and focus area, using bold text for keywords.
-
-Clear Structure with Separators: Used --- (horizontal rules) to visually separate sections, improving readability.
-
-Detailed Core Competencies: Created a dedicated section using relevant emojis (🧠, 👁️, 🤖, 🛠️, ☁️, 📊) to highlight specific areas within AI/CV. This clearly outlines your expertise.
-
-Tech Stack with Badges: Utilized shields.io badges for your technical skills. This is visually appealing and standard practice on many professional GitHub profiles. Added common tools like Docker and Git. Included placeholders for cloud platforms.
-
-"Currently Exploring" Section: Added a section (🌱) to show you're proactive and continuously learning, which is highly valued in the tech field. Customize this with your actual current interests.
-
-Optional GitHub Stats: Included commented-out code for popular github-readme-stats cards. These provide a quick visual summary of your activity. Remember to replace d3010 with your actual GitHub username if you uncomment this. I've chosen the radical theme, but you can browse others.
-
-Improved "Get In Touch": Made this section clearer (📫) with explicit labels (Email, LinkedIn, Portfolio). Added a placeholder for a portfolio link, which is highly recommended for showcasing projects. Provided the full, clickable LinkedIn URL.
-
-Markdown Best Practices: Used headings (###), lists (<ul>, <li>), bold text (**), and line breaks (<br>) effectively for formatting.
-
-To Use This:
-
-Create/Edit README.md: Go to your GitHub profile page (e.g., github.com/YOUR_USERNAME). Create a new repository with the exact same name as your GitHub username. Make sure it's public and initialize it with a README file. If it already exists, just edit the README.md file within that special repository.
-
-Copy and Paste: Copy the entire code block above.
-
-Paste: Paste it into the README.md editor on GitHub.
-
-Customize:
-
-CRITICAL: Replace d3010 in the profile view counter URL (and the optional stats cards) with your actual GitHub username.
-
-Uncomment and fill in links for your Portfolio, Twitter, etc., if you have them.
-
-Add your email address if desired.
-
-Customize the "Core Competencies," "Tech Stack," and "Currently Exploring" sections to accurately reflect your skills and interests. Add/remove badges or items as needed.
-
-If you uncomment the GitHub Stats section, ensure
