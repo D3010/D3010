@@ -36,21 +36,6 @@
   <!-- Add Cloud specific badges if relevant: AWS, GCP, Azure -->
   <!-- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>   -->
 </p>
-
----
-
-### 🌱 What I'm Currently Exploring
-
-<p align="left">
-  I'm always learning and pushing boundaries. Currently, I'm diving deeper into:
-  <ul>
-    <li>Explainable AI (XAI) techniques for Computer Vision models.</li>
-    <li>Efficient deployment of CV models on edge devices.</li>
-    <li>Multi-modal learning involving vision and language/other sensor data.</li>
-    <!-- Add or modify based on your actual current interests -->
-  </ul>
-</p>
-
 ---
 
 ### <!-- Optional: GitHub Stats -->
@@ -72,6 +57,6 @@
   <br><br>
   📧 **Email:** dshah30.us@gmail.com <br>
   🔗 **LinkedIn:**(https://www.linkedin.com/in/deep-shah30/) <br>
-  🌐 **Portfolio:**(https://deepsai.tech)>
+  🌐 **Portfolio:**(https://deepsai.tech/)>
 </p>
 
