@@ -1,19 +1,5 @@
 # Hi 👋, I'm Deep Amish Shah
 <h3 align="center">A Passionate AI Engineer Driving Innovation in Computer Vision</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d3010&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  <!-- Optional: Add more badges like GitHub followers, stars, etc. if desired -->
-  <!-- <a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub Followers"/></a> -->
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deep-shah30/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <!-- Add other relevant links like Portfolio, Twitter, Blog etc. -->
-  <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a> -->
-  <!-- <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a> -->
-</p>
-
 ---
 
 <p align="left">
@@ -89,7 +75,7 @@
   <br><br>
   📧 **Email:** dshah30.us@gmail.com <br>
   🔗 **LinkedIn:** [linkedin.com/in/deep-shah30](https://www.linkedin.com/in/deep-shah30/) <br>
-  <!-- 🌐 **Portfolio:** [your-portfolio-link.com](https://deepsai.tech/)>
+  🌐 **Portfolio:** [your-portfolio-link.com](https://deepsai.tech/)>
 </p>
 
 ---
