@@ -6,8 +6,6 @@
   I'm an AI Engineer deeply fascinated by the potential of machines to perceive, understand, and interact with the visual world. My core passion lies at the dynamic intersection of **Computer Vision (CV)** and **Artificial Intelligence (AI)**, where I focus on developing and deploying intelligent systems that solve real-world challenges. I thrive on transforming complex visual data into actionable insights and innovative applications.
 </p>
 
----
-
 ### 🚀 Core Competencies & Areas of Interest
 
 <p align="left">
@@ -74,8 +72,8 @@
   I'm always open to discussing new projects, collaborations, or opportunities in AI and Computer Vision. Feel free to connect!
   <br><br>
   📧 **Email:** dshah30.us@gmail.com <br>
-  🔗 **LinkedIn:** [linkedin.com/in/deep-shah30](https://www.linkedin.com/in/deep-shah30/) <br>
-  🌐 **Portfolio:** [your-portfolio-link.com](https://deepsai.tech/)>
+  🔗 **LinkedIn:**(https://www.linkedin.com/in/deep-shah30/) <br>
+  🌐 **Portfolio:**(https://deepsai.tech/)>
 </p>
 
 ---
