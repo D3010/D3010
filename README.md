@@ -1,7 +1,3 @@
-Okay, Deep, let's craft a professional and visually engaging GitHub profile README that highlights your passion for Computer Vision and AI. Drawing on years of experience creating these, we'll focus on clarity, impact, and aesthetics.
-
-Here’s a refined version incorporating best practices and elements to showcase your expertise:
-
 # Hi 👋, I'm Deep Amish Shah
 <h3 align="center">A Passionate AI Engineer Driving Innovation in Computer Vision</h3>
 
