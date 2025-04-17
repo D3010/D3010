@@ -13,7 +13,7 @@
   👁️ **Computer Vision:** Object Detection & Tracking, Image Segmentation, Facial Recognition, OCR, 3D Vision, Video Analysis. <br>
   🤖 **AI/ML:** Supervised & Unsupervised Learning, Reinforcement Learning (concepts), Model Evaluation & Deployment. <br>
   🛠️ **MLOps:** Streamlining ML workflows, model versioning, monitoring, and deployment in production environments (e.g., using Docker, Kubernetes basics). <br>
-  ☁️ **Cloud Platforms:** Experience with AWS SageMaker, Google AI Platform, or Azure ML (mention specific ones if applicable). <br>
+  ☁️ **Cloud Platforms:** Experience with AWS SageMaker, Azure ML . <br>
   📊 **Data Handling:** Expertise in image/video data augmentation, preprocessing, and dataset management. <br>
 </p>
 
