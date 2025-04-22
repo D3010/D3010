@@ -2,22 +2,9 @@
 <h3 align="center">A Passionate AI Engineer Driving Innovation in Computer Vision</h3>
 
 <p align="left">
-  I'm an AI Engineer deeply fascinated by the potential of machines to perceive, understand, and interact with the visual world. My core passion lies at the dynamic intersection of **Computer Vision (CV)** and **Artificial Intelligence (AI)**, where I focus on developing and deploying intelligent systems that solve real-world challenges. I thrive on transforming complex visual data into actionable insights and innovative applications.
+  I'm an AI Engineer deeply fascinated by the potential of machines to perceive, understand, and interact with the visual world. My core passion lies at the dynamic intersection of Computer Vision (CV) and Artificial Intelligence (AI), where I focus on developing and deploying intelligent systems that solve real-world challenges. I thrive on transforming complex visual data into actionable insights and innovative applications.
 </p>
 
-### 🚀 Core Competencies & Areas of Interest
-
-<p align="left">
-  <!-- Using emojis as visual cues -->
-  🧠 **Deep Learning:** Designing, training, and optimizing neural networks (CNNs, RNNs, Transformers) for vision tasks. <br>
-  👁️ **Computer Vision:** Object Detection & Tracking, Image Segmentation, Facial Recognition, OCR, 3D Vision, Video Analysis. <br>
-  🤖 **AI/ML:** Supervised & Unsupervised Learning, Reinforcement Learning (concepts), Model Evaluation & Deployment. <br>
-  🛠️ **MLOps:** Streamlining ML workflows, model versioning, monitoring, and deployment in production environments (e.g., using Docker, Kubernetes basics). <br>
-  ☁️ **Cloud Platforms:** Experience with AWS SageMaker, Azure ML . <br>
-  📊 **Data Handling:** Expertise in image/video data augmentation, preprocessing, and dataset management. <br>
-</p>
-
----
 
 ### 💻 Tech Stack & Tools
 
@@ -37,26 +24,4 @@
   <!-- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>   -->
 </p>
 ---
-
-### <!-- Optional: GitHub Stats -->
-<!-- 📊 GitHub Stats -->
-<!-- Uncomment and replace 'd3010' with your actual GitHub username -->
-<!--
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d3010&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3010&layout=compact&langs_count=8&theme=radical"/>
-</p>
--->
-
----
-
-### 📫 Get In Touch
-
-<p align="left">
-  I'm always open to discussing new projects, collaborations, or opportunities in AI and Computer Vision. Feel free to connect!
-  <br><br>
-  📧 **Email:** dshah30.us@gmail.com <br>
-  🔗 **LinkedIn:**(https://www.linkedin.com/in/deep-shah30/) <br>
-  🌐 **Portfolio:**(https://deepsai.tech/)>
-</p>
 
